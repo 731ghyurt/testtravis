@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <h5>这是首页哈哈哈哈巴拉巴拉</h5>
+    <h5>这是首页哈哈哈哈巴拉巴拉</h5>
   </div>
 </template>
 
